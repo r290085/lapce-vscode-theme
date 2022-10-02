@@ -2,7 +2,7 @@ author = "panekj"
 description = "Default dark/light theme used in VS Code"
 display-name = "VS Code"
 name = "vscode-theme"
-theme = [
+themes = [
   "Dark+.toml",
   "Light+.toml",
 ]
